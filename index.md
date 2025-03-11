@@ -50,8 +50,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 {% endif %}
 
 <p id="material">
-  <strong>Course material:</strong>
-  <a href="https://carpentries-incubator.github.io/fair-research-software/" target="blank">Course material</a> that will be used at the workshop is available online.
+  <a href="https://carpentries-incubator.github.io/fair-research-software/" target="blank">Course material</a> that will be used at the workshop is available online and will remain publicly available after the workshop.
 </p>
 
 {% comment %}
