@@ -218,8 +218,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc65v4WQ0fRPpx7ftQLWfowzN3wDozY4WHLGpiwXQZeWjUJLQ/viewform">Pre-workshop Survey</a></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSepXF8tnoyFuQkLrwwupYuOutOAWE4fAdXb82wYfDZhszi6Lg/viewform">Post-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/u/0/d/1Pat26spnn9QuAh5T3g_1vB2uM8Kb9Waj9iKZuVKsQsQ/preview">Pre-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/1AFo9sfgnTH44QfZD1caXjEX7YHsid2iZmmqe29GHjzU/preview">Post-workshop Survey</a></p>
 
 <hr/>
 
@@ -249,7 +249,7 @@ of code below the Schedule `<h2>` header below with
 <h2 id="schedule">Schedule</h2>
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1, 26 November 2024, 09:15 - 13:00 UTC </h3>
+    <h3>Day 1, 1 April 2025, 09:15 - 13:00 UTC </h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Course introduction</td> </tr>
       <tr> <td>09:45</td>  <td>FAIR reseach software</td> </tr>
@@ -261,7 +261,7 @@ of code below the Schedule `<h2>` header below with
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 2, 27 November 2024, 09:15 - 13:00 UTC</h3>
+    <h3>Day 2, 2 April 2025, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 1 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Version control</td> </tr>
@@ -273,7 +273,7 @@ of code below the Schedule `<h2>` header below with
     </table>
   </div>
     <div class="col-md-6">
-    <h3>Day 3, 28 November 2024, 09:15 - 13:00 UTC</h3>
+    <h3>Day 3, 3 April 2025, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 2 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Code testing</td> </tr>
@@ -285,7 +285,7 @@ of code below the Schedule `<h2>` header below with
     </table>
   </div>
     <div class="col-md-6">
-    <h3>Day 4, 29 November 2024, 09:15 - 13:00 UTC</h3>
+    <h3>Day 4, 4 April 2025, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 3 recap</td> </tr>
       <tr> <td>09:30</td>  <td>Documenting code (cont'd)</td> </tr>
