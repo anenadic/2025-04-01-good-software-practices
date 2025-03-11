@@ -1,5 +1,5 @@
-## Tools and practices for FAIR research software workshop website
+## Tools and good practices (including FAIR) for research software course - workshop website
 
-- Date: 26 -29 November 2024
-- Delivered as part of the SSI's Research Software Camp
-- Visible at: [https://softwaresaved.github.io/2024-07-01-fair-software/](https://softwaresaved.github.io/2024-11-26-fair-software/)
+- Date: 01 - 04 April 2025
+- Funded by UKRN - UK Reproducibility Network
+- Visible at: https://softwaresaved.github.io/2025-04-01-good-software-practices 
