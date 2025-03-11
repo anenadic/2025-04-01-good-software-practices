@@ -1,4 +1,4 @@
-## Tools and good practices (including FAIR) for research software course - workshop website
+## Tools and good practices (including the FAIR principles) for research software course - workshop website
 
 - Date: 01 - 04 April 2025
 - Funded by UKRN - UK Reproducibility Network
