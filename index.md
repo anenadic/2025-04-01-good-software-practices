@@ -269,7 +269,7 @@ of code below the Schedule `<h2>` header below with
       <tr> <td>10:15</td>  <td>Break</td> </tr>
       <tr> <td>10:30</td>  <td>Version Control (cont'd)</td> </tr>
       <tr> <td>11:30</td>  <td>Break</td> </tr>
-      <tr> <td>11:45</td>  <td>Reproducible development environment</td> </tr>
+      <tr> <td>11:45</td>  <td>Reproducible software environments</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
@@ -289,11 +289,11 @@ of code below the Schedule `<h2>` header below with
     <h3>Day 4, 4 April 2025, 09:15 - 13:00 UTC</h3>
     <table class="table table-striped">
       <tr> <td>09:15</td>  <td>Day 3 recap</td> </tr>
-      <tr> <td>09:30</td>  <td>Code documentation</td> </tr>
+      <tr> <td>09:30</td>  <td>Software documentation</td> </tr>
       <tr> <td>10:15</td>  <td>Break</td> </tr>
-      <tr> <td>10:30</td>  <td>Code documentation (cont'd)</td> </tr>
+      <tr> <td>10:30</td>  <td>Software documentation (cont'd)</td> </tr>
       <tr> <td>11:30</td>  <td>Break</td> </tr>
-      <tr> <td>11:45</td>  <td>Open project collaboration & management (cont'd)</td> </tr>
+      <tr> <td>11:45</td>  <td>Open software management & collaboration</td> </tr>
       <tr> <td>13:00</td>  <td>Wrap-up/End</td> </tr>
     </table>
   </div>
