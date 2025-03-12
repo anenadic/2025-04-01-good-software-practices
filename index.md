@@ -252,12 +252,12 @@ of code below the Schedule `<h2>` header below with
   <div class="col-md-6">
     <h3>Day 1, 1 April 2025, 09:15 - 13:00 UTC </h3>
     <table class="table table-striped">
-      <tr> <td>09:15</td>  <td>Course introduction</td> </tr>
-      <tr> <td>09:45</td>  <td>FAIR reseach software</td> </tr>
+      <tr> <td>09:15</td>  <td>Course introduction</td> </tr>  
+      <tr> <td>09:45</td>  <td>FAIR research software</td> </tr>
       <tr> <td>10:15</td>  <td>Break</td> </tr>
-      <tr> <td>10:30</td>  <td>Tools and practices for FAIR research software development</td> </tr>
+      <tr> <td>10:30</td>  <td>Tools and good practices for research software</td> </tr>
       <tr> <td>11:30</td>  <td>Break</td> </tr>
-      <tr> <td>11:45</td>  <td>Tools and practices for FAIR research software development (cont'd)</td> </tr>
+      <tr> <td>11:45</td>  <td>Tools and good practices for research software (cont'd)</td> </tr>
       <tr> <td>13:00</td>  <td>End</td> </tr>
     </table>
   </div>
