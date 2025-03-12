@@ -18,6 +18,8 @@ helper: "Aleks Nenadic"     # boxed, comma-separated list of helpers' names, lik
 email: ["a.nenadic@software.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://pad.carpentries.org/2025-04-01-good-software-practices # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+pre_workshop_survey: https://docs.google.com/forms/d/e/1FAIpQLSeTpFvx3phs2dtquDir1ECr6DJMQUR-8bDp4U1IXrk_sqZKXg/viewform
+post_workshop_survey: https://docs.google.com/forms/d/e/1FAIpQLSet76lWVn5bdhm9APDG-nIv-91VEzDa8mJLk4UnhrC5PL1hVQ/viewform
 ---
 
 {% comment %}
@@ -217,8 +219,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeTpFvx3phs2dtquDir1ECr6DJMQUR-8bDp4U1IXrk_sqZKXg/viewform?usp=preview">Pre-workshop Survey</a></p>
-<p><a href="https://docs.google.com/forms/d/1AFo9sfgnTH44QfZD1caXjEX7YHsid2iZmmqe29GHjzU/preview">Post-workshop Survey</a></p>
+<p>- <a href="{{ page.pre_workshop_survey}} ">Pre-workshop survey</a></p>
+<p>- <a href="{{ page.post_workshop_survey }} ">Post-workshop survey</a></p>
 
 <hr/>
 
