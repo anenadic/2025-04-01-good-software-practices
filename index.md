@@ -16,7 +16,7 @@ enddate: 2025-04-04        # machine-readable end date for the workshop in YYYY-
 instructor: ["Aman Goel", "Sam Mangham", "Colin Sauze", "Philly Broadbent"] 
 helper: "Aleks Nenadic"     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["a.nenadic@software.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  https://pad.carpentries.org/2025-04-01-good-software-practices # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes:  https://codimd.carpentries.org/2025-04-01-good-software-practices
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 pre_workshop_survey: https://docs.google.com/forms/d/e/1FAIpQLSeTpFvx3phs2dtquDir1ECr6DJMQUR-8bDp4U1IXrk_sqZKXg/viewform
 post_workshop_survey: https://docs.google.com/forms/d/e/1FAIpQLSet76lWVn5bdhm9APDG-nIv-91VEzDa8mJLk4UnhrC5PL1hVQ/viewform
